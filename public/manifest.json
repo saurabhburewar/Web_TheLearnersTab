@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "LearnersTab",
+  "description": "The new tab extension for learners",
+  "author": "Saurabh Burewar",
+  "version": "1.0.1",
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+
+  "permissions": ["tabs", "history"],
+
+  "content_security_policy": "script-src 'self' 'sha256-Owb/F4ouv3m6kDm0F31VrSO5+4s9U2Jtgn2tfCqKTrE='; object-src 'self'"
+}
