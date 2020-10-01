@@ -1,0 +1,75 @@
+.zenslider {
+  border-radius: 10px;
+  background: #313131;
+  width: 98%;
+  height: 50%;
+  box-sizing: border-box;
+  position: relative;
+  margin-right: 2%;
+  margin-top: 1%;
+  float: right;
+  display: flex;
+  overflow: hidden;
+}
+
+.zenslide {
+  min-width: 100%;
+  height: 100%;
+  transition: 0.5s;
+}
+
+.overlay {
+  color: transparent;
+  font-size: 40px;
+  font-weight: 300;
+  text-transform: uppercase;
+  word-spacing: 300px;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition-duration: 0.5s;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay:hover {
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+/*
+---------To add buttons, copy below html after <a> tag-------------
+        <button className="goLeft" onClick={this.goLeft}>
+          L
+        </button>
+        <button className="goRight" onClick={this.goRight}>
+          R
+        </button>
+button {
+  background-color: transparent;
+  opacity: 0.1;
+  position: absolute;
+  top: 50%;
+  width: 10%;
+  height: 100%;
+  transform: translateY(-50%);
+  border: none;
+  outline: none;
+}
+.goRight {
+  right: 0;
+}
+
+button:hover {
+  background: rgba(0, 0, 0, 1);
+}
+
+.goLeft {
+  left: 0;
+}
+*/
