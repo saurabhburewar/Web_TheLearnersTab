@@ -1,0 +1,26 @@
+.infopage {
+  position: relative;
+  background: transparent;
+  width: 80%;
+  height: 45%;
+  margin-top: 6.5%;
+  float: left;
+  clear: both;
+}
+
+.infoside {
+  position: relative;
+  background: transparent;
+  float: left;
+  width: 15%;
+  height: 45vh;
+}
+
+.infocontent {
+  position: relative;
+  background: transparent;
+  width: 85%;
+  height: 45vh;
+  float: right;
+  display: block;
+}
