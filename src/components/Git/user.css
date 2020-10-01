@@ -1,0 +1,22 @@
+.userform {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.usernameInput {
+  border: none;
+  width: 130%;
+  height: 30px;
+  margin-left: 5%;
+  padding: 5%;
+  background: rgba(10, 10, 10, 0.3);
+  color: rgba(255, 255, 255, 0.6);
+  border-radius: 5px;
+  outline: none;
+}
+.usernameInput::placeholder {
+  color: #4b4b4b;
+}
