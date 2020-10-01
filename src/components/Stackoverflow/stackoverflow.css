@@ -1,0 +1,64 @@
+.soHistory {
+  float: left;
+  width: 100%;
+  height: 45vh;
+  border-top-right-radius: 10px;
+  overflow: scroll;
+}
+
+.soHead {
+  width: 100%;
+  color: #db8138;
+  padding: 2% 2% 2% 10%;
+}
+
+.soHistoryItem {
+  border: none;
+  position: relative;
+  width: 100%;
+  padding: 1%;
+  float: left;
+  display: flex;
+  align-items: center;
+}
+
+.soHistoryTitle {
+  border: none;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 3%;
+  width: 70%;
+  float: left;
+}
+
+.soHtitle {
+  color: rgba(255, 255, 255, 0.8);
+  transition-duration: 0.5s;
+}
+.soHtitle:hover {
+  text-decoration: none;
+  color: #db8138;
+}
+
+.soHistoryLastTime {
+  border: none;
+  float: right;
+  margin-left: 12%;
+  margin-right: 3%;
+  width: 15%;
+}
+
+.soHistoryDate {
+  border: none;
+  float: right;
+  clear: right;
+  color: #414141;
+  font-size: 0.8vw;
+}
+
+.soHistoryTime {
+  border: none;
+  float: right;
+  clear: right;
+  color: #414141;
+  font-size: 0.8vw;
+}
