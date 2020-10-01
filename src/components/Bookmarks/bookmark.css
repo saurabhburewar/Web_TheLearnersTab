@@ -1,0 +1,60 @@
+.bookpage {
+  border: 1px solid red;
+  background: transparent;
+  width: 20%;
+  height: 44%;
+  margin-left: 5%;
+  position: relative;
+  float: left;
+  border-radius: 10px;
+  display: block;
+  overflow: scroll;
+  padding: 1% 0 0 0;
+}
+
+.bookitem {
+  border: 1px solid blue;
+  background: transperent;
+  width: 100%;
+  height: 10%;
+  display: block;
+  overflow: hidden;
+  float: left;
+  margin-top: 2%;
+}
+
+.booktitle {
+  border: 1px solid green;
+  width: 100%;
+  float: left;
+}
+
+.btitle {
+  color: rgba(255, 255, 255, 0.8);
+  transition-duration: 0.5s;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: block;
+  width: 100%;
+}
+.btitle:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.addbutton {
+  border: 1px solid blue;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 15%;
+  height: 10%;
+}
+
+.addform {
+  word-wrap: break-word;
+}
+
+.bookinput {
+  word-wrap: break-word;
+}
