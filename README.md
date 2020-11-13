@@ -1,4 +1,4 @@
-*Project under development
+*In development
 
 # TheLearnersTab
 A new tab extension for learners
@@ -19,10 +19,10 @@ Accidently closed the much needed answer you were reading? Just open your new ta
 ### Github (public) support
 Check your public github resources. Just enter your username and access your public repos (owner or contributer) and gists right from the new tab. You can check which repos have open issues and start working with a click.
 
-### Hackernews
+### Hackernews*
 Gets you your daily dose of knowledge through hackernews. Access the newest stories and click to visit the full story on hackernews. You can also get the top stories and job stories through this panel.
 
-### Bookmarks
+### Bookmarks*
 We got you some default bookmarks covering your social networks like facebook, instagram, linkedin and even slack. We also have some useful resources for your web developing and competative programming plans.
 Other than this, you can add your own bookmarks!
 
