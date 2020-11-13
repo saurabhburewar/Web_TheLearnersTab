@@ -31,5 +31,5 @@ Every once in a while, we forget what we planned yesterday, so why not just keep
 P.S. It will really help when you get distracted.
 
 ## Theme for chrome
-The extention also comes with a chrome theme to match it. You can check it out [here] (https://github.com/saurabhburewar/ChromeThemes/tree/main/BlackTheme).
+The extention also comes with a chrome theme to match it. You can check it out [here](https://github.com/saurabhburewar/ChromeThemes/tree/main/BlackTheme).
 
