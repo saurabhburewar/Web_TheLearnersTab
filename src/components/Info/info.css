@@ -1,0 +1,29 @@
+.infopage {
+  position: relative;
+  background: #050505a4;
+  width: 95%;
+  height: 45%;
+  margin-top: 6.5%;
+  margin-left: 2%;
+  float: left;
+  clear: both;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.infoside {
+  position: relative;
+  background: transparent;
+  float: left;
+  width: 13%;
+  height: 45vh;
+}
+
+.infocontent {
+  position: relative;
+  background: transparent;
+  width: 85%;
+  height: 45vh;
+  float: right;
+  display: block;
+}
