@@ -19,7 +19,7 @@ Accidently closed the much needed answer you were reading? Just open your new ta
 ### Github (public) support
 Check your public github resources. Just enter your username and access your public repos (owner or contributer) and gists right from the new tab. You can check which repos have open issues and start working with a click.
 
-### Hackernews*
+### Hackernews
 Gets you your daily dose of knowledge through hackernews. Access the newest stories and click to visit the full story. You can also get the top stories and job stories through this panel.
 
 ### Bookmarks*
