@@ -1,0 +1,69 @@
+.history {
+  float: left;
+  width: 100%;
+  height: 45vh;
+  border-top-right-radius: 10px;
+  overflow: scroll;
+}
+
+.Head {
+  float: left;
+  width: 100%;
+  color: rgba(101, 152, 248, 0.6);
+  padding: 2% 2% 2% 10%;
+  font-family: Agency FB;
+  font-weight: bold;
+  font-size: 1vw;
+}
+
+.historyItem {
+  border: none;
+  position: relative;
+  width: 100%;
+  padding: 1%;
+  float: left;
+  display: flex;
+  align-items: center;
+}
+
+.historyTitle {
+  border: none;
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 3%;
+  width: 70%;
+  float: left;
+  font-size: 0.9vw;
+}
+
+.htitle {
+  color: rgba(255, 255, 255, 0.8);
+  transition-duration: 0.5s;
+}
+.htitle:hover {
+  color: rgba(101, 248, 248, 0.6);
+  text-decoration: none;
+}
+
+.historyLastTime {
+  border: none;
+  float: right;
+  margin-left: 12%;
+  margin-right: 3%;
+  width: 15%;
+}
+
+.historyDate {
+  border: none;
+  float: right;
+  clear: right;
+  color: #414141;
+  font-size: 0.8vw;
+}
+
+.historyTime {
+  border: none;
+  float: right;
+  clear: right;
+  color: #414141;
+  font-size: 0.8vw;
+}
