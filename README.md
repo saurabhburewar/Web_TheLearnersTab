@@ -35,6 +35,9 @@ Other than this, you can add your own bookmarks!
 Every once in a while, we forget what we planned yesterday, so why not just keep your tasks where you will see them. This list will remind you what you have planned for today right when you open your browser. 
 It will also help when you get distracted.
 
+### CSS slideshow
+Just a fun little slideshow, showcasing the top designs from [CSSZenGarden](http://www.csszengarden.com/)
+
 ## Theme for chrome
 The extention also comes with a chrome theme to match it. You can check it out [here](https://github.com/saurabhburewar/ChromeThemes/tree/main/BlackTheme).
 
