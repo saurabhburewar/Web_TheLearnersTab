@@ -36,7 +36,7 @@ Every once in a while, we forget what we planned yesterday, so why not just keep
 It will also help when you get distracted.
 
 ### CSS slideshow
-Just a fun little slideshow, showcasing the top designs from [CSSZenGarden](http://www.csszengarden.com/)
+Just a fun little slideshow, showcasing the top designs from [CSS-Zen-Garden](http://www.csszengarden.com/)
 
 ## Theme for chrome
 The extention also comes with a chrome theme to match it. You can check it out [here](https://github.com/saurabhburewar/ChromeThemes/tree/main/BlackTheme).
