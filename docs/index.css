@@ -22,7 +22,7 @@ body {
 .livebackground {
   background-image: linear-gradient(to left, #080808, #050505);
   width: 100%;
-  height: 100vh;
+  height: 100%;
   overflow: hidden;
   position: relative;
 }
