@@ -4,6 +4,8 @@
 
 A new tab extension for learners
 
+![Screenshot of extension](https://github.com/saurabhburewar/TheLearnersTab/blob/main/docs/img/Screenshot.png)
+
 This new tab extension offers a solution to problems like accessing news, getting knowledge and having too many tab opens. It comes with several useful features that make your learning and working easier. It also comes with some marked default learning sources for newer developers.
 
 Details at https://saurabhburewar.github.io/TheLearnersTab/
