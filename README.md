@@ -1,5 +1,3 @@
-*In development
-
 # TheLearnersTab
 
 A new tab extension for learners
@@ -27,7 +25,7 @@ Check your public github resources. Just enter your username and access your pub
 ### Hackernews
 Gets you your daily dose of knowledge through hackernews. Access the newest stories and click to visit the full story. You can also get the top stories and job stories through this panel.
 
-### Bookmarks*
+### Bookmarks
 We got you some default bookmarks covering your social networks like facebook, instagram, linkedin and even slack. We also have some useful resources for your web developing and competative programming plans.
 Other than this, you can add your own bookmarks!
 
