@@ -26,8 +26,8 @@ Check your public github resources. Just enter your username and access your pub
 Gets you your daily dose of knowledge through hackernews. Access the newest stories and click to visit the full story. You can also get the top stories and job stories through this panel.
 
 ### Bookmarks
-We got you some default bookmarks covering your social networks like facebook, instagram, linkedin and even slack. We also have some useful resources for your web developing and competative programming plans.
-Other than this, you can add your own bookmarks!
+We got you some default bookmarks covering your social networks like facebook, instagram, linkedin and even slack. We also have some a panel for you to add your own bookmarks.
+You can also group your bookmarks!
 
 ### Todo list
 Every once in a while, we forget what we planned yesterday, so why not just keep your tasks where you will see them. This list will remind you what you have planned for today right when you open your browser. 
