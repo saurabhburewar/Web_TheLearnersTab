@@ -1,4 +1,4 @@
-# TheLearnersTab
+# ![Logo](https://github.com/saurabhburewar/TheLearnersTab/blob/main/docs/img/LT-logo-01.png) TheLearnersTab
 
 A new tab extension for learners
 
