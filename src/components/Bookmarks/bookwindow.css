@@ -1,0 +1,96 @@
+.dashpage {
+  background: #050505a4;
+  width: 60%;
+  margin-left: 2%;
+  height: 45%;
+  float: left;
+  display: block;
+  position: relative;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.dashhead {
+  border: none;
+  width: 10%;
+  height: 100%;
+  float: left;
+  border: 1px solid red;
+}
+
+.dashheadimg {
+  background-image: url("../../images/Bookmarks-01.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: none;
+  margin-top: 35%;
+  width: 100%;
+  height: 75%;
+  float: left;
+}
+
+.dash-btn {
+  border: none;
+  background: transparent;
+  width: 50%;
+  margin-left: 25%;
+  float: left;
+  clear: left;
+}
+.dash-btn:focus {
+  outline: none;
+}
+
+.dashIcon {
+  width: 100%;
+}
+
+.dashwin {
+  width: 90%;
+  height: 100%;
+  float: left;
+  overflow: scroll;
+  padding: 2% 3.5%;
+  border: 1px solid red;
+}
+
+.bookgrp {
+  width: 100%;
+  float: left;
+}
+.grphead {
+  width: 100%;
+  float: left;
+  display: flex;
+  align-items: center;
+  padding: 2% 0 1% 0;
+}
+.headtext {
+  width: 100%;
+  color: #3b3c47;
+  padding: 0 0 1% 0;
+  border-bottom: 1px solid #3b3c4781;
+}
+.booktile {
+  float: left;
+  width: 20%;
+  padding: 5px 10px;
+}
+
+.booktiletitle {
+  background: transparent;
+  border-radius: 5px;
+  width: 100%;
+  text-align: center;
+  font-size: 13px;
+  padding: 5px 0px;
+  overflow: hidden;
+  display: block;
+  text-overflow: ellipsis;
+  color: rgba(255, 255, 255, 0.6);
+}
+.booktiletitle:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+  background: #1b1c20;
+}
