@@ -37,5 +37,5 @@ It will also help when you get distracted.
 Just a fun little slideshow, showcasing the top designs from [CSS-Zen-Garden](http://www.csszengarden.com/)
 
 ## Theme for chrome
-The extension also comes with a chrome theme to match it. You can check it out [here](https://github.com/saurabhburewar/ChromeThemes).
+The extension also comes with a chrome themes to match it. You can check them out [here](https://github.com/saurabhburewar/ChromeThemes).
 
