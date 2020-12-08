@@ -1,0 +1,30 @@
+.application {
+  background-image: url(./images/CarbonFiber-01.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgb(10, 10, 10);
+  overflow: hidden;
+  height: 100%;
+  min-width: 800px;
+}
+
+.Right-container {
+  background: #050505;
+  padding: 0 1% 0 1%;
+  position: absolute;
+  right: 0;
+  width: 25%;
+  height: 100vh;
+  min-width: 330px;
+  overflow: hidden;
+}
+
+.Left-container {
+  position: relative;
+  float: left;
+  width: 75%;
+  height: 100vh;
+  overflow: hidden;
+}
