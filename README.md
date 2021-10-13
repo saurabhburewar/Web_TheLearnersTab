@@ -6,7 +6,7 @@ A new tab extension for learners
 
 This new tab extension offers a solution to problems like accessing news, getting knowledge and having too many tab opens. It comes with several useful features that make your learning and working easier. It also comes with some marked default learning sources for newer developers.
 
-Details at https://saurabhburewar.github.io/TheLearnersTab/
+Details at https://saurabhburewar.github.io/Web_TheLearnersTab/
 
 ## Features
 
