@@ -1,0 +1,102 @@
+.bottom-grid {
+    background: transperent;
+    width: 100%;
+    height: 3%;
+    position: relative;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 10px;
+    min-width: 260px;
+    min-height: 50px;
+  }
+  
+  .tile {
+    position: relative;
+    height: 70%;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .tile-link {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border-radius: 10px;
+    transition: 0.5s;
+    color: #313131;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .fab {
+    font-size: 2vw;
+  }
+  
+  .iconbottom {
+    width: 1vw;
+    min-width: 15px;
+  }
+  
+  .fb-icon {
+    width: 0.4vw;
+    min-width: 8px;
+  }
+  
+  .da-icon {
+    width: 0.5vw;
+    min-width: 10px;
+  }
+  .tile-link:hover {
+    cursor: pointer;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.8);
+    color: rgba(255, 255, 255, 0.8);
+    fill: rgba(255, 255, 255, 0.8);
+  }
+  
+  .s {
+    background-image: linear-gradient(
+      to top left,
+      #ecb22e,
+      #e01e5a,
+      #2eb67d,
+      #36c5f0
+    );
+    margin-left: 3%;
+    width: 10%;
+  }
+  
+  .wh {
+    background-image: linear-gradient(to top left, #0f9d58, #26d147, white);
+    margin-left: 3%;
+    width: 10%;
+  }
+  
+  .fb {
+    background-image: linear-gradient(to bottom left, #2e57ad, #4867aa, #788fc2);
+    margin-left: 3%;
+    width: 10%;
+  }
+  
+  .ig {
+    background-image: linear-gradient(to bottom left, #5930c4, #e34473, #f3db40);
+    margin-left: 3%;
+    width: 10%;
+  }
+  
+  .li {
+    background-image: linear-gradient(to bottom left, #0096b6, #77abb7);
+    width: 10%;
+  }
+  
+  .da {
+    background-image: linear-gradient(to bottom left, #1f2023, #0f9d58);
+    margin-left: 3%;
+    width: 10%;
+  }
+  

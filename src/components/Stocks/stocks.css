@@ -1,0 +1,13 @@
+.stockPage {
+    width: 67%;
+    height: 80%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stockBox {
+    width: 90%;
+    height: 100%;
+    margin-top: 4%;
+}

@@ -1,0 +1,48 @@
+{
+  "manifest_version": 3,
+
+  "name": "LearnersTab",
+  "description": "The New tab extension for learners",
+  "author": "Saurabh Burewar",
+  "version": "3.0.1",
+  "icons": {
+    "16": "logo16.png",
+    "32": "logo32.png",
+    "48": "logo48.png",
+    "128": "logo128.png"
+  },
+
+  "action": {
+    "default_popup": "index.html"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+
+  "web_accessible_resources": [
+    {
+      "resources": ["images/*"],
+      "matches": ["*://*/*"]
+    }
+  ],
+
+  "background": {
+    "service_worker": "serviceWorker.js",
+    "type": "module"
+  },
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "activeTab",
+    "history",
+    "contextMenus",
+    "system.cpu",
+    "system.memory",
+    "system.storage"
+  ],
+
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self' 'unsafe-inline' https://s3.tradingview.com;"
+  }
+}

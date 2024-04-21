@@ -1,0 +1,13 @@
+.customWallPage {
+    width: 67%;
+    height: 80%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    mask-image: radial-gradient(circle at 50% 50%, black 40%, transparent 50%);
+}
+
+.customWallPage img {
+    width: 70%;
+}

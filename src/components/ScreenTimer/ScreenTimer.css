@@ -1,0 +1,61 @@
+.ScreenPage {
+    position: relative;
+    width: 30%;
+    margin-left: 2%;
+    height: 50%;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ScreenChanger {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ScreenChanger:hover {
+    cursor: pointer;
+}
+.ScreenChanger svg {
+    width: 50%;
+}
+
+.ScreenChartBox {
+    position: absolute;
+    width: 80%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ScreenListBox {
+    position: absolute;
+    width: 80%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ScreenItem {
+    width: 90%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ScreenName {
+    width: 80%;
+    height: 100%;
+}
+.ScreenDuration {
+    width: 20%;
+    height: 100%;
+}

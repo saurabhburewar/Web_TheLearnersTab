@@ -1,0 +1,42 @@
+.systeminfoBox {
+    width: 67%;
+    height: 20%;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.systemmem {
+    width: 20%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.systemmemgraph {
+    width: 50%;
+    height: 70%;
+}
+.systemmemname {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.systemcpu {
+    width: 50%;
+    height: 70%;
+}
+
+.systemTextBox {
+    width: 50%;
+    height: 70%;
+    display: flex;
+    font-size: 13px;
+    justify-content: center;
+    flex-direction: column;
+}
