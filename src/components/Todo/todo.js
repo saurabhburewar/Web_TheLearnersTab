@@ -12,6 +12,18 @@ export default function Todo() {
     const [todos, setTodos] = useState([]);
     const [formtext, setText] = useState("");
     let plusSign;
+
+    useEffect(() => {
+        chrome.storage.sync.get("LTTodo", (result) => {
+            if(result.LTTodo) {
+                setTodos(result.LTTodo)
+            }
+        })
+    }, [])
+
+    useEffect(() => {
+        chrome.storage.sync.set({LTTodo: todos})
+    }, [todos])
     
     const deleteTodo = (id) => {
         setTodos(todos.filter((todo) => todo.id !== id))
