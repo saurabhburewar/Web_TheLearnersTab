@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# ![logo](https://github.com/saurabhburewar/TheLearnersTab/blob/main/docs/img/logo32.png)   The Learner's Tab
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A new tab extension for learners
 
-## Available Scripts
+![Screenshot of extension](https://github.com/saurabhburewar/TheLearnersTab/blob/main/docs/img/home.png)
 
-In the project directory, you can run:
+This new tab extension offers quick access to almost everything you need as a new or experienced developer. It comes with several useful features that make your learning and working easier. Not just developers, most of the features are useful to a more common audience.
 
-### `npm start`
+Details at https://saurabhburewar.github.io/Web_TheLearnersTab/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### History
+Check your last activity and continue where you left off, right from your new tab.
+- The history component offers a filtered view of your browser history.
+- We offer two default filters - Stackoverflow and YouTube, the two most useful resources for starting as well as experienced developers.
+- We also provide a third filter which can be customized for any keyword of your liking.
 
-### `npm test`
+### Github (public) support
+Check your public github resources. Just enter your username in settings. 
+- Access your public repos and gists right from the new tab. You can check which repos have open issues and start working with a click.
+- Check all the issues that were recently visited, so you can continue working on an issue or revisit a previous issue.
+- Shows all the pull requests that were recently visited by the user, so you can quickly check if there are any updates in you PR.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Quick Links
+We got you some default links covering your social networks like facebook, instagram, linkedin and even slack. We also have a panel for you to add your own links.
+- You can also group your links!
+- Links can be easily added to a group by right-clicking and selecting the option while you are on a website.
+- We also support importing and exporting your list, so you dont have to set it all up again, when switching laptops/browsers.
 
-### `npm run build`
+### Todo list
+A simple list to track all your to-dos, so you can come back to work the next day, without worrying about forgetting something. No need to track stuff on other apps, or your phone, just do it where it will always be visible, right on the browser.
+Also, serves as a reminder to do something when you are distracted.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Screen Timer
+- Tracks the amount of time you spent on a website on your browser, so you can limit the time spent watching youtube videos.
+- With a click of a button, the data can viewed as a chart (which is default) or a list.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Theme for chrome
+The extension also comes with a chrome themes to match it. You can check them out [here](https://github.com/saurabhburewar/Web_ChromeThemes).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
