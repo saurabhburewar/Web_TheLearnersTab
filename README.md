@@ -33,7 +33,7 @@ A simple list to track all your to-dos, so you can come back to work the next da
 Also, serves as a reminder to do something when you are distracted.
 
 ### Screen Timer
-- Tracks the amount of time you spent on a website on your browser, so you can limit the time spent watching youtube videos.
+Tracks the amount of time you spent on a website on your browser, so you can limit the time spent watching youtube videos.
 - With a click of a button, the data can viewed as a chart (which is default) or a list.
 
 ## Theme for chrome
