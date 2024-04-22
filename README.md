@@ -8,6 +8,14 @@ This new tab extension offers quick access to almost everything you need as a ne
 
 Details at https://saurabhburewar.github.io/Web_TheLearnersTab/
 
+## How to Install
+- Download the zip (leanersTab_<version>.zip) file in latest releases. This is the build file.
+- Extract the zip file.
+- Open your Chrome browser and go to the extension page.
+- Toggle developer mode On.
+- Click on "Load unpacked" button and select the extracted build folder.
+- Done. Enjoy your new extension.
+
 ## Features
 
 ### History
