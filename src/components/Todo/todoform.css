@@ -9,10 +9,11 @@
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   width: 90%;
-  height: 35px;
-  padding: 10px;
+  height: 0em;
+  padding: 5%;
   border: none;
   color: rgba(255, 255, 255, 0.6);
+  font-size: 13px;
 }
 
 .todoInput::placeholder {
@@ -38,6 +39,10 @@
   align-items: center;
 }
 
+.plus svg {
+  width: 70%;
+}
+
 .plus:focus {
   outline: none;
 }
@@ -45,3 +50,4 @@
 .plusIcon {
   width: 75%;
 }
+  

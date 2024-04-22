@@ -234,7 +234,7 @@ body {
   }
 }
 .headpic {
-  background-image: url(./img/Screenshot.png);
+  background-image: url(./img/home.png);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0px 0px 20px 0px #000000;
@@ -256,7 +256,7 @@ body {
   height: 30%;
 }
 .featuresh {
-  height: 10%;
+  height: 4%;
 }
 
 .About {
@@ -269,7 +269,7 @@ body {
 .Features {
   float: left;
   width: 100%;
-  height: 200%;
+  height: 500%;
   background: #1e1f26;
 }
 .para {
@@ -298,38 +298,49 @@ body {
 }
 
 .featuresp {
-  height: 90%;
+  height: 92%;
 }
 .featuresAllcomps {
-  width: 60%;
+  width: 80%;
   height: 100%;
 }
 .featurescomp {
-  width: 49.5%;
-  height: 25%;
+  width: 100%;
+  height: 20%;
+}
+.featuresDescBox {
+  width: 50%;
+  height: 100%;
   float: left;
+}
+.featuresPicBox {
+  width: 50%;
+  height: 100%;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.featuresPicBox img {
+  width: 80%;
 }
 .featurescomphead {
   width: 100%;
   height: 30%;
   display: flex;
   justify-content: center;
-  align-items: center;
-}
-.featurescomphead1 {
-  font-size: 25px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  align-items: flex-end;
+  font-size: 30px;
   color: #5cb6b3;
 }
-.featuresicons {
-  width: 10%;
+.featurescomphead img {
+  width: 6%;
   float: left;
+  margin-right: 2%;
 }
-.featurescompdes {
+.featurescompdesc {
   width: 100%;
-  height: 70%;
+  height: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -339,7 +350,10 @@ body {
   height: 70%;
   font-size: 18px;
   line-height: 1.4;
-  text-align: center;
+  word-wrap: break-word;
+}
+.featurescompdes1 li {
+  margin-bottom: 5%;
 }
 .featurescompdes1 a {
   color: #fff;
@@ -354,7 +368,7 @@ body {
 @media only screen and (max-width: 968px) {
   div.featurescomp {
     width: 100%;
-    height: 12.4%;
+    height: 18%;
   }
   div.Features {
     height: 250%;
@@ -368,6 +382,12 @@ body {
   div.featurescompdes1 {
     width: 100%;
     font-size: 15px;
+  }
+  div.featuresPicBox {
+    display: none;
+  }
+  div.featuresDescBox {
+    width: 100%;
   }
 }
 
@@ -695,6 +715,10 @@ body {
 .contacticons {
   width: 100%;
   min-width: 40px;
+}
+.giticon {
+  width: 90%;
+  min-width: 35px;
 }
 
 @media only screen and (max-width: 968px) {
