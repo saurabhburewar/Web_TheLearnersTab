@@ -2,7 +2,7 @@
 
 A new tab extension for learners
 
-![Screenshot of extension](https://github.com/saurabhburewar/TheLearnersTab/blob/main/docs/img/home.png)
+![Screenshot of extension](https://github.com/saurabhburewar/Web_TheLearnersTab/blob/learnerTab_v3/docs/img/home.png)
 
 This new tab extension offers quick access to almost everything you need as a new or experienced developer. It comes with several useful features that make your learning and working easier. Not just developers, most of the features are useful to a more common audience.
 
