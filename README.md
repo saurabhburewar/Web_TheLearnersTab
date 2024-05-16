@@ -6,7 +6,9 @@ A new tab extension for learners
 
 This new tab extension offers quick access to almost everything you need as a new or experienced developer. It comes with several useful features that make your learning and working easier. Not just developers, most of the features are useful to a more common audience.
 
-Details at https://saurabhburewar.github.io/Web_TheLearnersTab/
+[<img height="25" src="https://img.shields.io/badge/Download-green?style=for-the-badge&color=%23238636" />][Download]
+
+[<img height="25" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=%230A66C2" />][Website]
 
 ## How to Install
 - Download the zip (leanersTab_<version>.zip) file in latest releases. This is the build file.
@@ -47,3 +49,5 @@ Tracks the amount of time you spent on a website on your browser, so you can lim
 ## Theme for chrome
 The extension also comes with a chrome themes to match it. You can check them out [here](https://github.com/saurabhburewar/Web_ChromeThemes).
 
+[Website]: https://saurabhburewar.github.io/Web_TheLearnersTab/
+[Download]: https://github.com/saurabhburewar/Web_TheLearnersTab/releases
